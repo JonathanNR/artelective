@@ -2837,45 +2837,60 @@ body {
   text-align: center;
   color: #232323;
 }
-.cid-qQ2UdLe3qt {
-  padding-top: 90px;
+.cid-qQ2YDI0DBd {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #14213d;
+}
+.cid-qQ2YDI0DBd [class^="socicon-"]:before,
+.cid-qQ2YDI0DBd [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-qQ2YDI0DBd .btn-social {
+  border-color: #149dcc;
+}
+.cid-qQ2YDI0DBd .btn-social:hover {
+  background: #149dcc;
+}
+.cid-qQ2YDI0DBd .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-qQ2YDI0DBd .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qQ2YDI0DBd .btn-social,
+.cid-qQ2YDI0DBd .mbr-section-title B {
+  color: #f55d3e;
+}
+.cid-qQ2Y5lCI3J {
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #14213d;
 }
-.cid-qQ2UdLe3qt .mbr-section-subtitle {
+.cid-qQ2Y5lCI3J h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qQ2Y5lCI3J p {
   color: #767676;
+  text-align: left;
 }
-.cid-qQ2UdLe3qt .media-row {
-  display: flex;
-  justify-content: center;
+.cid-qQ2Y5lCI3J .card-box {
+  padding-top: 2rem;
 }
-.cid-qQ2UdLe3qt .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
+.cid-qQ2Y5lCI3J .card-wrapper {
+  height: 100%;
 }
-.cid-qQ2UdLe3qt .team-item .item-image img {
-  width: 100%;
+.cid-qQ2Y5lCI3J .card-title {
+  text-align: center;
+  color: #ffffff;
 }
-.cid-qQ2UdLe3qt .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-qQ2UdLe3qt .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-qQ2UdLe3qt .team-item .item-social {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.cid-qQ2UdLe3qt .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-qQ2UdLe3qt .team-item .item-caption {
-  background: #efefef;
-}
-.cid-qQ2UdLe3qt H2 {
-  color: #f55d3e;
+.cid-qQ2Y5lCI3J P {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-qPXyO6aVUY {
   padding-top: 60px;
@@ -2943,9 +2958,4 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qQ2WMtmIFK {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
 }
