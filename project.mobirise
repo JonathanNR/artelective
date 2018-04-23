@@ -2102,7 +2102,7 @@
               }
             },
             ".btn-social, .mbr-section-title  B": {
-              "color": "#f9f9f9"
+              "color": "#cc2952"
             }
           },
           "_name": "social-buttons1",
