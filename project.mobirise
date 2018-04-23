@@ -2020,7 +2020,7 @@
               "background-color": "@bg-value"
             },
             ".media-container-row .mbr-text B": {
-              "color": "#cc2952"
+              "color": "#7f1933"
             }
           },
           "_name": "footer6",
