@@ -2020,7 +2020,7 @@
               "background-color": "@bg-value"
             },
             ".media-container-row .mbr-text B": {
-              "color": "#7f1933"
+              "color": "#cc2952"
             }
           },
           "_name": "footer6",
@@ -2102,7 +2102,7 @@
               }
             },
             ".btn-social, .mbr-section-title  B": {
-              "color": "#f55d3e"
+              "color": "#f9f9f9"
             }
           },
           "_name": "social-buttons1",
