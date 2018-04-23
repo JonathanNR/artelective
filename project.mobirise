@@ -2103,6 +2103,9 @@
             },
             ".btn-social, .mbr-section-title ": {
               "color": "#f55d3e"
+            },
+            ".btn-social, .mbr-section-title  B": {
+              "color": "#cc2952"
             }
           },
           "_name": "social-buttons1",
