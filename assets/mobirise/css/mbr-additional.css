@@ -1931,7 +1931,7 @@ body {
 .cid-qOrLY56FjT {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #f4a997, #a09fc0);
+  background: linear-gradient(45deg, #201d1d, #201d1d);
 }
 @media (min-width: 992px) {
   .cid-qOrLY56FjT .mbr-figure {
@@ -1951,6 +1951,10 @@ body {
     padding-left: 0;
     padding-right: 4rem;
   }
+}
+.cid-qOrLY56FjT .mbr-text,
+.cid-qOrLY56FjT .mbr-section-btn {
+  text-align: left;
 }
 .cid-qQ37uLlBUV {
   padding-top: 60px;
